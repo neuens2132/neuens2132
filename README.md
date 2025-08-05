@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Gavin Neuens
-- 👀 I’m currently interested in full stack development
-- 🌱 I’m currently learning ThreeJS and anything related to Machine Learning
-- 📫 How to reach me: gavinrneuens@gmail.com
-- 😄 Pronouns: He/Him
+- Hi, I’m Gavin Neuens
+- Developer
+- How to reach me: gavinrneuens@gmail.com
+- Pronouns: He/Him
 
 <!---
 neuens2132/neuens2132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
